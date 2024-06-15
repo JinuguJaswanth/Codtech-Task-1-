@@ -1,4 +1,4 @@
-Name : J.V.Jaseanth reddy
+Name : J.V.Jaswanth reddy
 company: CODETECH IT SOLUTIONS 
 ID : CT08PP527
 Domain : python programming
